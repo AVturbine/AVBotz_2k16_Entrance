@@ -1,0 +1,5 @@
+1. It is coming from the Quadrant II.
+2. Since the signal arrives at Hydrophone C first, that means it cannot be below the x-axis, thus quadrant III and IV are eliminated. It also cannot be coming from Quadrant I, as Hydrophone A has a longer delay than Hydrophone B, which means the signal was from the left, or Quadrant II.
+3. It makes a hyperbola (one of the conic sections)
+4. The sound is coming from somewhere near coordinates (-3.5, 4).
+5. I would brute-force points at an interval of 10m. Each point I would plug into my equation and see if the hyperbolas cross near there. Then I will zoom into the best match and brute-force points at 1m resolution, find best match, .01 m resolution, and so on until specified resolution.
